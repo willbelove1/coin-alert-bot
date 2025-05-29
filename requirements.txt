@@ -1,0 +1,5 @@
+fastapi
+requests
+pandas
+numpy
+uvicorn
